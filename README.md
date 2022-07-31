@@ -199,8 +199,8 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 
 #### 3.10.1 数据安全产品
 
-* [阿里-数据安去中心](https://help.aliyun.com/product/88674.html?spm=5176.21213303.J_6704733920.12.11ea53c9v1TlIn&scm=20140722.S_help%40%40%E4%BA%A7%E5%93%81%E9%A1%B5%40%4088674._.ID_help%40%40%E4%BA%A7%E5%93%81%E9%A1%B5%40%4088674-RL_%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83-LOC_main-OR_ser-V_2-P0_1) 
-* [腾讯-数据安去中心](https://cloud.tencent.com/document/product/1087) 
+* [阿里-数据安全中心](https://help.aliyun.com/product/88674.html?spm=5176.21213303.J_6704733920.12.11ea53c9v1TlIn&scm=20140722.S_help%40%40%E4%BA%A7%E5%93%81%E9%A1%B5%40%4088674._.ID_help%40%40%E4%BA%A7%E5%93%81%E9%A1%B5%40%4088674-RL_%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83-LOC_main-OR_ser-V_2-P0_1) 
+* [腾讯-数据安全中心](https://cloud.tencent.com/document/product/1087) 
 
 #### 3.10.2 APP合规检测安全产品
 
