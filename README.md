@@ -1,11 +1,10 @@
 <h1 align="center">Awesome-Security-GRC  💫 </h1>
 <p align="center">
-
-
-
-
-
-
+<img alt="star" src="https://img.shields.io/github/stars/zhaoyu5105/awesome-security-GRC" />
+<img alt="fork" src="https://img.shields.io/github/forks/zhaoyu5105/awesome-security-GRC" />
+<img alt="issues" src="https://img.shields.io/github/issues/zhaoyu5105/awesome-security-GRC" />
+<img alt="views" src="https://visitor-badge.glitch.me/badge?page_id=zhaoyu5105.awesome-security-GRC" />
+</p>
 
 Awesome-Security-GRC是一个用来收录安全GRC资源的开源知识库，为安全治理、风险管理、安全合规专业人士提供精选的资源列表。同时欢迎大家一起对安全GRC资源列表进行贡献与补充。
 
