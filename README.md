@@ -60,7 +60,7 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 
 - [GB/T 39335-2020 信息安全技术 个人信息安全影响评估指南](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=9EA84C0C3C2DBD3997B23F8E6C8ECA35) 
 - [TC260-PG-20202A 网络安全标准实践指南—移动互联网应用程序（App）收集使用个人信息自评估指南](https://www.tc260.org.cn/upload/2020-07-22/1595396892533085831.pdf) 
-- [App违法违规收集使用个人信息自评估指南](http://pip.tc260.org.cn/jbxt/privacy/detail/20190302114600934277)
+
 
 
 
