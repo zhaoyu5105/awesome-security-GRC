@@ -49,7 +49,8 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 
 ### 2.1 信息系统风险评估
 
-- [GB/T 20984—2007  信息安全技术  信息安全风险评估规范](http://www.djbh.net/webdev/file/webFiles/File/cpzg/2012261640.pdf)
+- [GB/T 20984—2007  信息安全技术  信息安全风险评估规范]([http://www.djbh.net/webdev/file/webFiles/File/cpzg/2012261640.pdf](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=C8DF1BC2FB43C6EC0E602EB65EF0BC66))
+
 
 ### 2.2 数据安全能力评估
 
@@ -212,6 +213,9 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 * [2021年 IBM 数据泄漏成本报告](https://www.ibm.com/downloads/cas/R1ZLBDPM)
 
 * [2022合规峰会来了！](https://mp.weixin.qq.com/s/-bH1_Eoc5beFP1CMU1w6Wg)
+
+*  [合规治理和知识产权保护论坛邀您参会！](https://mp.weixin.qq.com/s/Pl0nQUZcC7ZBZoxlqlBEtA)
+
 
   
 
