@@ -80,6 +80,8 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 - [中华人民共和国个人信息保护法](http://www.cac.gov.cn/2021-08/20/c_1631050028355286.htm)
 
 - [中华人民共和国电子商务法](http://www.cac.gov.cn/2021-08/20/c_1631050028355286.htm)
+- [未成年人保护法](http://www.npc.gov.cn/npc/c30834/202010/82a8f1b84350432cac03b1e382ee1744.shtml)
+- 
 
   
 
@@ -122,7 +124,6 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 ### 3.5 团体标准
 
 * [TTAF 077.9-2021 APP收集使用个人信息最小必要评估规范 短信信息](http://www.taf.net.cn/StdDetail.aspx?uid=AEB5DD2F-7850-4988-87CE-247BF1E69ACF&stdType=TAF)
-
 - [TTAF 077.11-2021 APP收集使用个人信息最小必要评估规范 通话记录](http://www.taf.net.cn/StdDetail.aspx?uid=A1E38B4A-3647-4F16-AD94-5F078574C210&stdType=TAF)
 - [TTAF 077.10-2021 APP收集使用个人信息最小必要评估规范 录音信息](http://www.taf.net.cn/StdDetail.aspx?uid=8FBAB2EC-7587-4F44-ABF0-BFF697E6AE83&stdType=TAF)
 - [TTAF 077.12-2021 APP收集使用个人信息最小必要评估规范 好友列表](http://www.taf.net.cn/StdDetail.aspx?uid=10C7D4D8-496A-4FF9-A472-07F213DA074F&stdType=TAF)
@@ -214,7 +215,7 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 
 * [2022合规峰会来了！](https://mp.weixin.qq.com/s/-bH1_Eoc5beFP1CMU1w6Wg)
 
-*  [合规治理和知识产权保护论坛邀您参会！](https://mp.weixin.qq.com/s/Pl0nQUZcC7ZBZoxlqlBEtA)
+* [合规治理和知识产权保护论坛邀您参会！](https://mp.weixin.qq.com/s/Pl0nQUZcC7ZBZoxlqlBEtA)
 
 
   
