@@ -108,7 +108,7 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 
 ### 3.4 国家标准
 
-* [[GB/T 35273-2020 信息安全技术 个人信息安全规范]](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=4568F276E0F8346EB0FBA097AA0CE05Ef)
+* [[GB/T 35273-2020 信息安全技术 个人信息安全规范]](http://c.gb688.cn/bzgk/gb/showGb?type=online&amp;hcno=4568F276E0F8346EB0FBA097AA0CE05E)
 * [[GB/T 37964-2019 信息安全技术 个人信息去标识化指南]](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=C8DF1BC2FB43C6EC0E602EB65EF0BC66) 
 * [GB/T 39335-2020 信息安全技术 个人信息安全影响评估指南](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=9EA84C0C3C2DBD3997B23F8E6C8ECA35) 
 * [GB/T 41391-2022 信息安全技术移动互联网应用程序(App)收集个人信息基本要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=977D9EBB32ABF0A7DD6A1215969FE57A)
