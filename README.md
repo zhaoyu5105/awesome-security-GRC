@@ -160,6 +160,8 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 
 ### 3.8 监管专项整治活动
 
+* [有限公司依法作出网络安全审查相关行政处罚的决定](https://mp.weixin.qq.com/s/JvME41TaNixTLQXC2mYMqg)
+
 * [工业和信息化部关于开展APP侵害用户权益专项整治工作的通知](https://www.miit.gov.cn/jgsj/xgj/fwjd/art/2019/art_178a5a11b15b410a8c2d98e3c04bf895.html)
 
 * [工业和信息化部关于开展纵深推进APP侵害用户权益专项整治行动的通知](https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2020/art_c5f69af7882247198657b2ac6777ad62.html)
