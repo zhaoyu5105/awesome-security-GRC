@@ -49,7 +49,7 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 
 ### 2.1 信息系统风险评估
 
-- [GB/T 20984—2007  信息安全技术  信息安全风险评估规范]([http://www.djbh.net/webdev/file/webFiles/File/cpzg/2012261640.pdf](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=C8DF1BC2FB43C6EC0E602EB65EF0BC66))
+- [GGB/T20984-2022 信息安全技术 信息安全风险评估方法](http://www.huaxiajianyan.com/ueditor/php/upload/file/20220619/1655606984753630.pdf)
 
 
 ### 2.2 数据安全能力评估
@@ -207,6 +207,7 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 
 #### 3.10.2 APP合规检测安全产品
 
+* [全国SDK管理服务平台](https://sdk.caict.ac.cn/official/#/home) 
 * [百度-史宾格隐私合规助手](https://anquan.baidu.com/product/appprivacy) 
 * [腾讯-APP隐私合规监测](https://market.cloud.tencent.com/products/29777) 
 * [中国电子技术标准化研究院-APP个人信息合规评估工具](https://zcpt.cesidsat.com/cms/index) 
