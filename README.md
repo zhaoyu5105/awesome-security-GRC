@@ -118,6 +118,8 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 * [GB/T 22080-2016 信息安全管理体系要求](http://www.leapcause.com/shoppic/file/GBT-22080-2016.pdf)
 * [GB/T 22239-2019 信息安全技术 网络安全等级保护基本要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=BAFB47E8874764186BDB7865E8344DAF)
 * [GB/T 39276-2020 信息安全技术 网络产品和服务安全通用要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=671EE0F00774EC5E980A9DC0E803751A)
+* [GR/T 0171-2020 信息安全技术 个人金融信息保护技术规范](https://www.cfstc.org/bzgk/gk/view/yulan.jsp?i_id=1856&s_file_id=1752)
+
 
 
 
