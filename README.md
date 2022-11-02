@@ -126,7 +126,18 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 * [GB/T 39276-2020 信息安全技术 网络产品和服务安全通用要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=671EE0F00774EC5E980A9DC0E803751A)
 * [GR/T 0171-2020 信息安全技术 个人金融信息保护技术规范](https://www.cfstc.org/bzgk/gk/view/yulan.jsp?i_id=1856&s_file_id=1752)
 
+  最新新增标准-征求意见稿系列
+  * [信息安全技术 汽车采集数据的安全要求](https://www.tc260.org.cn/file/2021-10-19/e5a87bcd-770f-4035-83dd-610e15a34096.pdf)
+  * [信息安全技术 步态识别数据安全要求](https://www.tc260.org.cn/file/2021-04-28/3077c34f-b0cf-4eb9-b305-0631195ee7fc.pdf)
+  * [信息安全技术 网络音视频服务数据安全指南](https://www.tc260.org.cn/file/2021-02-23/03cd92c1-a5b3-4ca2-bb20-590e4efaf7f8.pdf)
+  * [信息安全技术 网络支付服务数据安全指南](https://www.tc260.org.cn/file/2021-02-24/5826d81f-08d0-4bde-81d7-00aa7351d0b6.pdf)
+  * [信息安全技术 网上购物服务数据安全指南](https://www.tc260.org.cn/file/2021-02-23/f09edd68-1495-4738-9abd-d2e4c557b6db.pdf)
+  * [信息安全技术 快递物流服务数据安全指南](https://www.tc260.org.cn/file/2021-02-03/5a66021a-c437-4dcb-8834-fd9b177c5423.pdf)
+  * [信息安全技术 快递物流服务数据安全指南](https://www.tc260.org.cn/file/2021-02-03/5a66021a-c437-4dcb-8834-fd9b177c5423.pdf)
+  
+  
 
+  
 
 
 ### 3.5 团体标准
