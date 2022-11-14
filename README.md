@@ -125,17 +125,17 @@ GRC将治理、风险管理与审计和合规结合在一个协调的模型中�
 * [GB/T 22239-2019 信息安全技术 网络安全等级保护基本要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=BAFB47E8874764186BDB7865E8344DAF)
 * [GB/T 39276-2020 信息安全技术 网络产品和服务安全通用要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=671EE0F00774EC5E980A9DC0E803751A)
 * [GR/T 0171-2020 信息安全技术 个人金融信息保护技术规范](https://www.cfstc.org/bzgk/gk/view/yulan.jsp?i_id=1856&s_file_id=1752)
-
-  最新新增标准-征求意见稿系列
-  * [信息安全技术 汽车采集数据的安全要求](https://www.tc260.org.cn/file/2021-10-19/e5a87bcd-770f-4035-83dd-610e15a34096.pdf)
-  * [信息安全技术 步态识别数据安全要求](https://www.tc260.org.cn/file/2021-04-28/3077c34f-b0cf-4eb9-b305-0631195ee7fc.pdf)
-  * [信息安全技术 网络音视频服务数据安全指南](https://www.tc260.org.cn/file/2021-02-23/03cd92c1-a5b3-4ca2-bb20-590e4efaf7f8.pdf)
-  * [信息安全技术 网络支付服务数据安全指南](https://www.tc260.org.cn/file/2021-02-24/5826d81f-08d0-4bde-81d7-00aa7351d0b6.pdf)
-  * [信息安全技术 网上购物服务数据安全指南](https://www.tc260.org.cn/file/2021-02-23/f09edd68-1495-4738-9abd-d2e4c557b6db.pdf)
-  * [信息安全技术 快递物流服务数据安全指南](https://www.tc260.org.cn/file/2021-02-03/5a66021a-c437-4dcb-8834-fd9b177c5423.pdf)
-  * [信息安全技术 快递物流服务数据安全指南](https://www.tc260.org.cn/file/2021-02-03/5a66021a-c437-4dcb-8834-fd9b177c5423.pdf)
-  
-  
+* [GR/T 42016-2022 信息安全技术 网络音视频服务数据安全要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=20615352AC128FC97F8005161976B921)
+* [GR/T 41819-2022 信息安全技术 人脸识别数据安全要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=BE74B9780B8C4852D62CF47F282478B6)
+* [GR/T 41871-2022 信息安全技术 汽车数据处理安全要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=4D3C5BB193E079AD54294E5845749B8F)
+* [GR/T 42015-2022 信息安全技术 网络支付服务数据安全要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=CEB5771DBBF05ED5EA99EBA50896537F)
+* [GR/T 41773-2022 信息安全技术 步态识别数据安全要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=2137495F032BA9E69A753016027D271C)
+* [GR/T 42015-2022 信息安全技术 网络支付服务数据安全要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=CEB5771DBBF05ED5EA99EBA50896537F)  
+* [GR/T 42013-2022 信息安全技术 快递物流服务数据安全要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=CDBCE8F2E4CDE60A86092361A8796178)  
+* [GR/T 41806-2022 信息安全技术 基因识别数据安全要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=EACA08F5F077771ACE82FBE7987F40AE)  
+* [GR/T 42012-2022 信息安全技术 即时通信服务数据安全要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=136B8F06A548FAE8ABB375E4C65C1E38) 
+* [GR/T 42017-2022 信息安全技术 网络预约汽车务数据安全要求](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=182AA2DDF9F1EB9A69193B9CA528BBC4) 
+* [GR/T 41817-2022 信息安全技术 个人信息安全工程指南](http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=62C795EBF1BF0200A7161718CEFAABA8)  
 
   
 
